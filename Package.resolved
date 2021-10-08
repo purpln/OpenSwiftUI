@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CoreGraphics",
+        "repositoryURL": "https://github.com/purpln/CoreGraphics.git",
+        "state": {
+          "branch": "main",
+          "revision": "fd5122d94f94a2bba8b48efd86a87786218d3459",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
