@@ -1,7 +1,6 @@
-import Foundation
+//import Foundation
 
-public class AnyColorBox {
-}
+public class AnyColorBox { }
 
 extension AnyColorBox: Hashable {
     public func hash(into hasher: inout Hasher) {
